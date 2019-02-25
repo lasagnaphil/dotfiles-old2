@@ -4,6 +4,7 @@ Plug 'junegunn/goyo.vim'
 
 Plug 'scrooloose/nerdtree'
 Plug 'Xuyuanp/nerdtree-git-plugin'
+Plug 'jistr/vim-nerdtree-tabs'
 
 Plug 'junegunn/fzf.vim'
 
