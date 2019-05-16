@@ -58,7 +58,3 @@ source "$BASH_IT"/bash_it.sh
 # Aliases
 alias vim=nvim
 alias config='/usr/bin/git --git-dir=$HOME/.myconf/ --work-tree=$HOME'
-
-# Virtualenv-wrapper
-export WORKON_HOME=~/.virtualenvs
-source /usr/bin/virtualenvwrapper_lazy.sh
